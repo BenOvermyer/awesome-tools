@@ -52,4 +52,10 @@ The following are tools that work in any *nix environment, including Linux and m
 
 **Website:** http://pandoc.org/
 
+### todoist
 
+**Purpose:** CLI tool for interacting with Todoist
+
+**Value:** Faster interaction with Todoist!
+
+**Website:** https://github.com/sachaos/todoist
