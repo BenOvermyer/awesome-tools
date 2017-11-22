@@ -44,6 +44,14 @@ The following are tools that work in any *nix environment, including Linux and m
 
 **Website:** https://gist.github.com/BenOvermyer/b433b5c3afb1678e0303cb28b38ebac2
 
+### mitmproxy
+
+**Purpose:** Provides a network proxy
+
+**Value:** Good way to debug or analyze traffic going through the web
+
+**Website:** https://mitmproxy.org/
+
 ### pandoc
 
 **Purpose:** Converts between document formats
